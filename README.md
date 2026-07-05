@@ -19,6 +19,11 @@ Como projetar contratos que sobrevivem a erros que você ainda não conhece: gua
 
 A maior barreira de adoção onchain é a UX: seed phrase, gas em token nativo, pop-up de carteira a cada clique. Account Abstraction ataca cada um desses pontos com smart accounts programáveis — login social sem seed phrase, gasless via Paymaster, batching de ações e session keys — com comparação entre ERC-4337 e ERC-7702.
 
+### 👛 Construção de uma Carteira Web3 com Embedded Wallets
+*2026-06-27 · Web3 Experts Brazil · React + Vite · Privy · Pods*
+
+Construção de uma carteira Web3 completa, com cara de produto: autenticação via Privy com criação de embedded wallet, smart wallet como único endereço exibido e executável, leitura de saldos e histórico, fluxos de depósito e envio de cripto, swap e earn via widgets, e execução de transações pela smart wallet. O exercício mostra como embedded + smart wallets eliminam a seed phrase da experiência do usuário.
+
 ---
 
 *Repo em construção — o material de cada workshop entra aqui conforme for revisado para publicação.*
